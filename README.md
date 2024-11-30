@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mdselimdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GkhPJk-72-Dks6Jmx8wPtQj_iOSk4Hbu/view](https://drive.google.com/file/d/1GkhPJk-72-Dks6Jmx8wPtQj_iOSk4Hbu/view)
+- 📄 Know about my experiences [(https://docs.google.com/document/d/1YII7Ueigq-AvQzl6zpH3C1CXdyVzACxniUIr6OdZIyE/edit?tab=t.0)]
 
 - ⚡ Fun fact **I am funny**
 
