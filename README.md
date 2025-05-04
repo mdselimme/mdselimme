@@ -1,6 +1,8 @@
-<h1 align="left">Hi 👋, I'm Selim</h1>
-<h3 align="left">I'm a passionate Programmer.</h3>
-<img width="450px" height="350px" src="https://i.ibb.co.com/bz1FkCF/my.webp">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD.+SELIM!+I'm+a+Passionate+Programmer;" />
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdselimme&label=Profile%20views&color=0e75b6&style=flat" alt="mdselimme" /> </p>
 
