@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdselimme&show_icons=true&locale=en" alt="mdselimme" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdselimme&" alt="mdselimme" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdselimme&theme=cobalt&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
