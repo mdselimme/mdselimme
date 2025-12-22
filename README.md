@@ -38,10 +38,8 @@
 <a href="https://codeforces.com/profile/mdselimme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdselimeme" height="30" width="40" /></a>
 </p>
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdselimme&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdselimme&show_icons=true&locale=en" alt="mdselimme" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdselimme&theme=dark&border_radius=10&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mdselimme&theme=dracula&border_radius=6.1&short_numbers=true)](https://git.io/streak-stats)
