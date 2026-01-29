@@ -54,7 +54,6 @@ Currently focused on building impactful full-stack applications and growing as a
 ### Languages:
 
 <img src="https://skillicons.dev/icons?i=c,js,ts,sql" />
-<br/>
 
 ### 🚊 Frontend:
 
@@ -90,13 +89,28 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ### 🛠️ Tools & Platforms:
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,heroku" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,netlify,postman,heroku,vscode" />
 
 ### ☁️ Cloud & DevOps:
 
 <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdselimme&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+## 📚 Currently Learning
+
+- 🐳 **Docker** – because containers make life easier
+- ☁️ **Kubernetes** – orchestrating containerized applications
+- 🌩️ **AWS** – exploring cloud computing services
+- ⚙️ **CI/CD** – automating the software delivery process
+
+## 📊 GitHub Stats
+
+<p align="center"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdselimme&theme=city_lights" height="160" alt="GitHub Stats" /> 
+<img src="https://nirzak-streak-stats.vercel.app?user=mdselimme&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdselimme&show_icons=true&locale=en" alt="mdselimme" /></p>
 
