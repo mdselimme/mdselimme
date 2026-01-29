@@ -30,9 +30,7 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ## 👨‍💻 Find Me On:
 
-<div align="center">
-  - [Portfolio](https://mdselimme.dev.vercel.app) | [Resume](https://docs.google.com/document/d/1gpUDyf6zhLLqk6zERU8UgKhxIloPMWWCXr6K2Bapt34/edit?usp=sharing) | [Facebook](https://www.facebook.com/mdselimme) 
-</div>
+[Portfolio](https://mdselimme.dev.vercel.app) | [Resume](https://docs.google.com/document/d/1gpUDyf6zhLLqk6zERU8UgKhxIloPMWWCXr6K2Bapt34/edit?usp=sharing) | [Facebook](https://www.facebook.com/mdselimme)
 
 <br/>
 
