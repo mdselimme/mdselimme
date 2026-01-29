@@ -49,23 +49,27 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ---
 
-## ⚒️ Languages Frameworks Library Tools ⚙:
+## ⚙ Languages Frameworks Library Tools:
 
-#### Languages:
+### Languages:
 
 <img src="https://skillicons.dev/icons?i=c,js,ts,sql" />
+
 <br/>
-----
+
+--
 
 #### Frontend:
 
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,nextjs" />
-    <br>
-    ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-    ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-    ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-    ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-    ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,nextjs" />
+
+<br/>
+
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
 
 <br/>
 
