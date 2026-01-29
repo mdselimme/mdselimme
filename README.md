@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Selim</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+&+TypeScript+Developer;Learning+DevOps+&+Cloud" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+TypeScript+Developer;Learning+DevOps+&+Cloud" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -25,6 +25,20 @@ On the backend, I build RESTful APIs using Node.js, Express, TypeScript, MongoDB
 I follow a clean architecture approach, focusing on scalability, separation of concerns, and long-term maintainability. I’m highly motivated by solving real-world problems, continuously learning new technologies, and collaborating in team-driven environments.
 
 Currently focused on building impactful full-stack applications and growing as a professional software engineer.
+
+---
+
+## 👨‍💻 Find Me On:
+
+- [<img src="https://skillicons.dev/icons?i=internet" /> Portfolio Website](https://mdselimme.dev.vercel.app)
+
+- [<img src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn](https://www.linkedin.com/in/mdselimme)
+
+- [Facebook](https://www.facebook.com/mdselimme)
+
+- [Instagram](https://www.instagram.com/mdselimme)
+
+- [Twitter](https://x.com/mdselimme)
 
 ---
 
