@@ -114,12 +114,4 @@ Currently focused on building impactful full-stack applications and growing as a
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
 
----
-
-### GitHub Contributions:
-
-![Snake Grid](https://github.com/mdselimme/contribution-snake/blob/output/grid.svg)
-
-### Visitors Count:
-
-[![](https://visitcount.itsvg.in/api?id=mdselimme&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr/>
