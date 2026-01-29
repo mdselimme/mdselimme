@@ -2,10 +2,17 @@
 <img src="./banner/md-selim-github-cover.png" alt="Md Selim Banner" />
 
 <br/>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=F72977&center=true&vCenter=true&width=435&lines=Hi+There+!+%E2%9C%8B;I+am+Selim+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+Passionate+Programmer+%F0%9F%92%BB"/>
-</h1>
 
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Selim</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+TypeScript+Developer;Learning+DevOps+And+Machine+Learning" alt="Typing SVG" /></a>
+  </ul>
+</div>
+
+<br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
