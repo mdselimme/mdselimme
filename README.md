@@ -85,7 +85,7 @@ Currently focused on building impactful full-stack applications and growing as a
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,redis" />
 
-## ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🛠️ Tools & Platforms:
 
@@ -99,10 +99,12 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ## 📚 Currently Learning
 
-- 🐳 **Docker** – because containers make life easier
-- ☁️ **Kubernetes** – orchestrating containerized applications
-- 🌩️ **AWS** – exploring cloud computing services
-- ⚙️ **CI/CD** – automating the software delivery process
+- 🐳 **Docker** – because containers make life easier.
+- ☁️ **Kubernetes** – orchestrating containerized applications.
+- 🌩️ **AWS** – exploring cloud computing services.
+- ⚙️ **CI/CD** – automating the software delivery process.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -114,4 +116,12 @@ Currently focused on building impactful full-stack applications and growing as a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdselimme&show_icons=true&locale=en" alt="mdselimme" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=mdselimme&theme=dracula&border_radius=6.1&short_numbers=true)](https://git.io/streak-stats)
+---
+
+### GitHub Contributions:
+
+![Snake Grid](https://github.com/mdselimme/contribution-snake/blob/output/grid.svg)
+
+### Visitors Count:
+
+[![](https://visitcount.itsvg.in/api?id=mdselimme&icon=0&color=0)](https://visitcount.itsvg.in)
