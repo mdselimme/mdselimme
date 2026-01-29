@@ -12,8 +12,6 @@
   </ul>
 </div>
 
-<br/>
-
 ## 👨‍💻 About Me
 
 I’m a **Full-Stack Developer** specializing in building secure, scalable, and production-ready web applications using modern JavaScript and TypeScript technologies. I enjoy turning complex requirements into clean, maintainable solutions and have hands-on experience developing real-world systems.
@@ -113,5 +111,3 @@ Currently focused on building impactful full-stack applications and growing as a
 <img src="https://nirzak-streak-stats.vercel.app?user=mdselimme&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
-
-<hr/>
