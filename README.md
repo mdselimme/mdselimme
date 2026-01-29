@@ -114,8 +114,6 @@ Currently focused on building impactful full-stack applications and growing as a
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdselimme&show_icons=true&locale=en" alt="mdselimme" /></p>
-
 ---
 
 ### GitHub Contributions:
