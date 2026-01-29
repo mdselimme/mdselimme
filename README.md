@@ -1,5 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!--- banner --->
+<img src="./banner/md-selim-github-cover.png" alt="Md Selim Banner" />
 
+<br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=2000&pause=2000&color=F72977&center=true&vCenter=true&width=435&lines=Hi+There+!+%E2%9C%8B;I+am+Selim+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+Passionate+Programmer+%F0%9F%92%BB"/>
 </h1>
