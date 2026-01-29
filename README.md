@@ -30,11 +30,10 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ## 👨‍💻 Find Me On:
 
-[Portfolio](https://mdselimme.dev.vercel.app) | [Resume](https://docs.google.com/document/d/1gpUDyf6zhLLqk6zERU8UgKhxIloPMWWCXr6K2Bapt34/edit?usp=sharing) | [Facebook](https://www.facebook.com/mdselimme)
+[Portfolio](https://mdselimme.dev.vercel.app) | [Resume](https://docs.google.com/document/d/1gpUDyf6zhLLqk6zERU8UgKhxIloPMWWCXr6K2Bapt34/edit?usp=sharing) | [Facebook](https://www.facebook.com/mdselimme) | [Leetcode](https://leetcode.com/u/mdselimme)
 
 <br/>
 
-<p align="center">
   <a href="https://www.linkedin.com/in/mdselimme" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -47,10 +46,6 @@ Currently focused on building impactful full-stack applications and growing as a
   <a href="https://discord.com/users/mdselimme" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://leetcode.com/u/mdselimme" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-</p>
 
 ---
 
