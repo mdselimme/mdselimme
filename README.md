@@ -30,15 +30,35 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ## 👨‍💻 Find Me On:
 
-- [<img src="https://skillicons.dev/icons?i=internet" /> Portfolio Website](https://mdselimme.dev.vercel.app)
+- [Portfolio](https://mdselimme.dev.vercel.app)
 
-- [<img src="https://skillicons.dev/icons?i=linkedin" /> LinkedIn](https://www.linkedin.com/in/mdselimme)
+- [Resume](https://docs.google.com/document/d/1gpUDyf6zhLLqk6zERU8UgKhxIloPMWWCXr6K2Bapt34/edit?usp=sharing)
 
-- [Facebook](https://www.facebook.com/mdselimme)
+<br/>
 
-- [Instagram](https://www.instagram.com/mdselimme)
-
-- [Twitter](https://x.com/mdselimme)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://mdselimme.dev.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=internet" />
+  </a>
+  <a href="https://www.facebook.com/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://www.instagram.com/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://x.com/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://discord.com/users/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://leetcode.com/u/mdselimme" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
+  </a>
+</p>
 
 ---
 
