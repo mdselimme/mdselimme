@@ -8,11 +8,26 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Selim</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+TypeScript+Developer;Learning+DevOps+And+Machine+Learning" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+&+TypeScript+Developer;Learning+DevOps+&+Cloud" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
+
+## 👨‍💻 About Me
+
+I’m a **Full-Stack Developer** specializing in building secure, scalable, and production-ready web applications using modern JavaScript and TypeScript technologies. I enjoy turning complex requirements into clean, maintainable solutions and have hands-on experience developing real-world systems.
+
+On the frontend, I work with React, Next.js, Redux Toolkit, RTK Query, Tailwind CSS, and ShadCN UI to create responsive, accessible, and user-focused interfaces. I prioritize clean UI architecture, efficient state management, and strong form handling with React Hook Form and Zod.
+
+On the backend, I build RESTful APIs using Node.js, Express, TypeScript, MongoDB, and Mongoose, with a strong emphasis on security and performance. I implement JWT-based authentication, role-based authorization, password hashing with Bcrypt, data validation, and rate-limited, secure API design. I also have experience integrating payment gateways (SSLCommerz) and managing transactional systems.
+
+I follow a clean architecture approach, focusing on scalability, separation of concerns, and long-term maintainability. I’m highly motivated by solving real-world problems, continuously learning new technologies, and collaborating in team-driven environments.
+
+Currently focused on building impactful full-stack applications and growing as a professional software engineer.
+
+---
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
