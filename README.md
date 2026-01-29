@@ -54,15 +54,11 @@ Currently focused on building impactful full-stack applications and growing as a
 ### Languages:
 
 <img src="https://skillicons.dev/icons?i=c,js,ts,sql" />
-
 <br/>
 
---
-
-#### Frontend:
+### Frontend:
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,react,nextjs" />
-
 <br/>
 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
@@ -70,15 +66,26 @@ Currently focused on building impactful full-stack applications and growing as a
 ![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
-
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Gsap](https://img.shields.io/badge/Gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 <br/>
 
----
+### Backend:
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,go,javascript,typescript,express,firebase,mongodb,c,nextjs,netlify" /><br>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+<br/>
+
+![JSON Web Token](https://img.shields.io/badge/JSON_Web_Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-FF6F61?style=for-the-badge&logo=bcrypt&logoColor=white)
+![Passport Js](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=passport&logoColor=white)
+![Rate Limiter](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=rate-limiter&logoColor=white)
+![Node Mailer](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=nodemailer&logoColor=white)
+
+### Database:
+
+<img src="https://skillicons.dev/icons?i=mongodb,mongoose,postgres,prisma,redis" />
+<br/>
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdselimme&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
