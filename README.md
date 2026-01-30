@@ -75,9 +75,9 @@ Currently focused on building impactful full-stack applications and growing as a
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-FF6F61?style=for-the-badge&logo=bcrypt&logoColor=white)
 ![Passport Js](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=passport&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-000000?style=for-the-badge&logo=zod&logoColor=white)
-![Rate Limiter](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=rate-limiter&logoColor=white)
-![Node Mailer](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=nodemailer&logoColor=white)
-![Rest Api](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=restapi&logoColor=white)
+![Rate Limiter](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=rate-limiter&logoColor=white)
+![Node Mailer](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=nodemailer&logoColor=white)
+![Rest Api](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=restapi&logoColor=white)
 
 ### 🎰 Database:
 
