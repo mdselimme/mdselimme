@@ -90,7 +90,7 @@ Currently focused on building impactful full-stack applications and growing as a
 
 ### ☁️ Cloud & DevOps:
 
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes" />
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,kubernetes,nginx" />
 
 ---
 
@@ -110,3 +110,33 @@ Currently focused on building impactful full-stack applications and growing as a
 <img src="https://nirzak-streak-stats.vercel.app?user=mdselimme&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
+
+---
+
+### 📈 Activity & 3D Contribution
+
+<div align="center">
+
+**Commit activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdselimme&theme=react-dark&hide_border=true" width="100%" alt="Activity graph"/>
+
+<br>
+<!-- 
+**3D contribution**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdselimme&theme=tokyo-night)
+
+</div> -->
+
+---
+
+### 🎮 Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdselimme/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdselimme/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/mdselimme/mdselimme/output/pacman-contribution-graph.svg" width="100%"/>
+</picture>
+
+---
