@@ -107,9 +107,10 @@ Currently focused on building impactful full-stack applications and growing as a
 
 <p align="center"> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdselimme&theme=city_lights" height="160" alt="GitHub Stats" /> 
-<img src="https://nirzak-streak-stats.vercel.app?user=mdselimme&theme=github-dark-dimmed" height="160" alt="GitHub Streak" /> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdselimme&theme=city_lights" height="160" alt="Top Languages" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdselimme&theme=city_lights&hide_border=true" height="160" alt="Top Languages" /> </p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdselimme&theme=dracula&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
